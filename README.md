@@ -18,3 +18,4 @@ Boilerplate for react component library
 - [Jest](https://facebook.github.io/jest/) & [Enzyme](https://github.com/airbnb/enzyme)  for testing
 - Typescript
 - Sourcemap creation
+- [Storybook] for easy development of components
