@@ -21,3 +21,7 @@ Boilerplate for creating a react component library
 - [Storybook](https://storybook.js.org) for easy development of components
 - [Travic CI](https://travis-ci.org) for test and deploy
 - [Greenkeeper](https://greenkeeper.io) for dependency management
+
+## Publishing
+
+    npm version patch -m "Bumping to %s" && git push --tags
