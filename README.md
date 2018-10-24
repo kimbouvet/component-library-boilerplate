@@ -22,6 +22,10 @@ Boilerplate for creating a react component library
 - [Travic CI](https://travis-ci.org) for test and deploy
 - [Greenkeeper](https://greenkeeper.io) for dependency management
 
-## Publishing
+## Publishing using Travis CI
 
     npm version patch -m "Bumping to %s" && git push --tags
+    
+## Publishing localy
+
+    npm publish
