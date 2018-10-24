@@ -15,7 +15,9 @@ Boilerplate for creating a react component library
 - [create-react-app](https://github.com/facebookincubator/create-react-app) for example usage and local dev
 - [Rollup](https://rollupjs.org/) for bundling
 - [Babel](https://babeljs.io/) for transpiling
-- [Jest](https://facebook.github.io/jest/) & [Enzyme](https://github.com/airbnb/enzyme)  for testing
+- [Jest](https://facebook.github.io/jest/) & [Enzyme](https://github.com/airbnb/enzyme) for testing
 - Typescript
 - Sourcemap creation
 - [Storybook](https://storybook.js.org) for easy development of components
+- [Travic CI](https://travis-ci.org) for test and deploy
+- [Greenkeeper](https://greenkeeper.io) for dependency management
