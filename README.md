@@ -26,6 +26,6 @@ Boilerplate for creating a react component library
 
     npm version patch -m "Bumping to %s" && git push --tags
     
-## Publishing localy
+## Publishing locally
 
     npm publish
