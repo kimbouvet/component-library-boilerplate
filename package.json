@@ -21,7 +21,7 @@
   "peerDependencies": {
     "prop-types": "^15.5.4",
     "react": "^16.6.2",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react-dom": "^16.6.2"
   },
   "devDependencies": {
     "@material-ui/core": "^3.2.2",
