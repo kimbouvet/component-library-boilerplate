@@ -27,7 +27,7 @@
     "@material-ui/core": "^3.2.2",
     "@storybook/addon-actions": "^5.0.8",
     "@storybook/addon-info": "^5.0.8",
-    "@storybook/addon-jest": "^3.4.11",
+    "@storybook/addon-jest": "^5.0.8",
     "@storybook/addon-links": "^5.0.8",
     "@storybook/addons": "^5.0.8",
     "@storybook/cli": "^5.0.8",
