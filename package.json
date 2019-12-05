@@ -39,7 +39,7 @@
     "cross-env": "^5.1.4",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
-    "react-scripts": "^2.0.5",
+    "react-scripts": "^3.3.0",
     "rollup": "^0.66.6",
     "rollup-plugin-babel": "^4.0.3",
     "rollup-plugin-commonjs": "^9.1.8",
