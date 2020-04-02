@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@material-ui/core": "^3.2.2",
-    "@storybook/addon-actions": "^3.4.11",
+    "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-info": "^3.4.11",
     "@storybook/addon-jest": "^3.4.11",
     "@storybook/addon-links": "^3.4.11",
